@@ -33,9 +33,10 @@ pip install opencv-python keras numpy matplotlib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/facial-expression-recognition.git
+git clone https://github.com/Pavansai-Merugumala/facial-expression-recognition.git
 cd facial-expression-recognition
 ```
+note : cahnge the name
 
 2. Run the script with the `display` mode to start the facial expression recognition system:
 
